@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0680feb9-aad7-48f1-ae99-45165df8ad45"
+      }
+    },
+    "owner": "madinsonlugo"
   }
 }
